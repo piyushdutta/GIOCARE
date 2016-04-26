@@ -1,2 +1,2 @@
-# GIOCARE
-This folder will contain all the files for our project {.py,.html.css.js.}
+# Anime App development
+Batabase creation using NoSql and webServices to be made using sail.js 
